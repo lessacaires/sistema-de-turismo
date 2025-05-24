@@ -100,4 +100,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar 
 
 ## Autor
 
-Desenvolvido por [Seu Nome]
+Desenvolvido por Ton Lessa
